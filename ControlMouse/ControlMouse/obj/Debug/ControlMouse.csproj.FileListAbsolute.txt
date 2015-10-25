@@ -1,0 +1,9 @@
+C:\Users\Thaian\documents\visual studio 2015\Projects\ControlMouse\ControlMouse\bin\Debug\ControlMouse.exe.config
+C:\Users\Thaian\documents\visual studio 2015\Projects\ControlMouse\ControlMouse\bin\Debug\ControlMouse.exe
+C:\Users\Thaian\documents\visual studio 2015\Projects\ControlMouse\ControlMouse\bin\Debug\ControlMouse.pdb
+C:\Users\Thaian\documents\visual studio 2015\Projects\ControlMouse\ControlMouse\obj\Debug\ControlMouse.csprojResolveAssemblyReference.cache
+C:\Users\Thaian\documents\visual studio 2015\Projects\ControlMouse\ControlMouse\obj\Debug\ControlMouse.Form1.resources
+C:\Users\Thaian\documents\visual studio 2015\Projects\ControlMouse\ControlMouse\obj\Debug\ControlMouse.Properties.Resources.resources
+C:\Users\Thaian\documents\visual studio 2015\Projects\ControlMouse\ControlMouse\obj\Debug\ControlMouse.csproj.GenerateResource.Cache
+C:\Users\Thaian\documents\visual studio 2015\Projects\ControlMouse\ControlMouse\obj\Debug\ControlMouse.exe
+C:\Users\Thaian\documents\visual studio 2015\Projects\ControlMouse\ControlMouse\obj\Debug\ControlMouse.pdb
